@@ -10,7 +10,7 @@ public class jeju {
     @Test
     public void testAdd() throws Exception {
 
-      assertThat(1 + 1, is(2));
+        assertThat(5 + 10, is(15));
 
     }
 }
